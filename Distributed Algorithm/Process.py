@@ -1,7 +1,6 @@
 import threading
 import random
 import time
-critical=[]
 class threadd(threading.Thread):
 	p=[]
 	myTimeStamp=6.6
